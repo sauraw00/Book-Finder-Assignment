@@ -85,6 +85,7 @@ Helpers in `src/services/api.js`:
 - `buildCoverUrl(coverId, size)`
 - `buildReadInfoFromDoc(doc)` → `{ readUrl, canRead, workUrl }`
 
+-live url - https://bookffinderr.netlify.app/
 ## Notes
 - Some books may not have an online reader; the Read button disables when not available.
 - Font errors for other families (e.g., DMSans) are external; we use Inter via Google Fonts.
